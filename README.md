@@ -8,9 +8,6 @@
 <span>  </span>
 </div>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Fangnan700&theme=minimal" />
-</div>
 
 
 <!--
