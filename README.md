@@ -1,5 +1,11 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=I'm+Fang+Nan%2C+a+college+student+programmer.+Welcome+to+my+GitHub.+I+am+from+Hefei%2C+Anhui%2C+China.+I+am+currently+a+sophomore+in+college.+I+like+to+turn+interesting+ideas+into+interesting+programs.+If+you+have+some+wonderful+ideas+and+ideas%2C+you+are+welcome+to+contact+me!)](https://git.io/typing-svg)
+
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
+
 
 <!--
 **Fangnan700/Fangnan700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
