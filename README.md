@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hi~I'm+FangNan%22))](https://git.io/typing-svg)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Fangnan700)
-
-
+## :computer: Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,8 +11,7 @@
 
 
 
-
-## :clipboard:Statistics
+## :clipboard: Statistics
 
 <div>
 <span>  </span>
