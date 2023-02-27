@@ -3,7 +3,7 @@
 
 ## :computer: Skills
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,md,git,github,docker,mysql,postman,html,css,js,vue,c,cpp,java,maven,spring,py,flask" />
   </a>
@@ -13,7 +13,7 @@
 
 ## :clipboard: Statistics
 
-<div align="center">
+<div>
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Fangnan700" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fangnan700&layout=compact&langs_count=8" />
 <span>  </span>
