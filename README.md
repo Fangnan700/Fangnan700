@@ -12,7 +12,7 @@
 
 
 ## :clipboard: Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fangnan700)](https://github.com/anuraghazra/github-readme-stats)
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fangnan700&show_icons=true&theme=tokyonight)
 
 
 
