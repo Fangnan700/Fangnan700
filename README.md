@@ -1,16 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hi~I'm+FangNan%22))](https://git.io/typing-svg)
 
 
-## :computer: Skills
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,md,git,github,docker,mysql,postman,html,css,js,c,cpp,py,flask" />
-  </a>
-</p>
-
-
-
 ## :clipboard: Statistics
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fangnan700&show_icons=true&theme=tokyonight)
 
